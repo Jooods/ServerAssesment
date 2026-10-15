@@ -1,0 +1,3 @@
+Version 2 validation: syntax compilation passed; actual Linux local inventory/monitoring/export passed; exactly 10 numbered sections and matching navigation verified; empty report handling and HTML escaping passed.
+Windows-specific collectors, batch launchers and interactive GUI remain untested.
+Collectors and sizing formulas unchanged.
